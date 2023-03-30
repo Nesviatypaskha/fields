@@ -5,6 +5,12 @@
         "name": "test_field",
         "id": 1
       }
+    },
+    {
+      "field": {
+        "name": "test_field2",
+        "id": 2
+      }
     }
   ],
   "profile": {
