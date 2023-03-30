@@ -1,0 +1,12 @@
+{
+  "fields": [
+    {
+      "field": {
+        "name" : "test_field"
+      },
+    }
+  ],
+  "profile": {
+    "name": "test_user"
+  }
+}
