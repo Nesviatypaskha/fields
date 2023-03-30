@@ -2,8 +2,9 @@
   "fields": [
     {
       "field": {
-        "name" : "test_field"
-      },
+        "name": "test_field",
+        "id": 1
+      }
     }
   ],
   "profile": {
